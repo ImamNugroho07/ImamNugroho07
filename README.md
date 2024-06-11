@@ -20,7 +20,6 @@ After successfully completing my degree, I've embarked on a fulfilling journey a
 <br/>  
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F363285%2Fc-sharp-c&psig=AOvVaw0D2zdrE8cGgwaB1nBqTpNN&ust=1718160951191000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjs37vG0oYDFQAAAAAdAAAAABAE](https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg#/media/File:Logo_C_sharp.svg)" alt="C#" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
